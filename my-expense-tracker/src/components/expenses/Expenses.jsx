@@ -1,5 +1,5 @@
-import "../styles/Expenses.css";
-import Card from "./Card";
+import "../../styles/Expenses.css";
+import Card from "../Card";
 
 import ExpenseItem from "./ExpenseItem";
 
